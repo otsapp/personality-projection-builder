@@ -4,9 +4,9 @@ Using 5 personality measures, this project aims to find how easy it is to segmen
 
 To get an idea of separability, UMAP is applied to the personality measures to build a 2D scatter plot of 1820 Unique users , with colour classification denoting their movie watching preference out of serendipity, popularity, diversity or none.
 
-Interestingly, this approach doesn't seem to segment well, so a next step may be too use a different variable for colour classification.
+Interestingly, this approach doesn't seem to segment well, so a next step may be to use a different variable for colour classification.
 
-You can see the default output as example.png in the projection folder:
+You can see the default output as example.png in the projection folder (as seen below), although you can get more interesting outputs by modifying 'core' UMAP parameters.
 ![alt text](https://github.com/otsapp/personality-projection-builder/blob/master/projection/example.png)
 
 ## Running 
