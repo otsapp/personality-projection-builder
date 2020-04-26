@@ -6,7 +6,8 @@ To get an idea of separability, UMAP is applied to the personality measures to b
 
 Interestingly, this approach doesn't seem to segment well, so a next step may be too use a different variable for colour classification.
 
-You can see the default output as example.png in the projection folder.
+You can see the default output as example.png in the projection folder:
+![alt text](https://github.com/otsapp/personality-projection-builder/blob/master/projection/example.png)
 
 ## Running 
 
